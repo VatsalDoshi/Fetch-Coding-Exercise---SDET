@@ -46,7 +46,7 @@ This will invoke the tests defined in `tests/test_find_the_fake.py`, which ensur
 
 ## Project Structure
 ```
-your_project_name/
+Fake Gold Bar Finder
 │
 ├── src/                     # Source code directory
 │   ├── main.py              # Main script to run the automation
